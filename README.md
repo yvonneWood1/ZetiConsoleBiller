@@ -6,7 +6,7 @@ Client Project
 https://github.com/yvonneWood1/VehicleTest
 
 Tests Project
-https://github.com/yvonneWood1/VehicleTestTests
+https://github.com/yvonneWood1/ZetiTestTests
 
 ![image](https://user-images.githubusercontent.com/85294619/127215154-2121dde2-fd4f-4cb6-883a-e97c6d50d9f4.png)
 
